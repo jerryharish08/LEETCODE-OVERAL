@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jerryharish08/LEETCODE-OVERAL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/jerryharish08/LEETCODE-OVERAL/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jerryharish08/LEETCODE-OVERAL/tree/master/0040-combination-sum-ii) |
 ## Backtracking
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jerryharish08/LEETCODE-OVERAL/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jerryharish08/LEETCODE-OVERAL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jerryharish08/LEETCODE-OVERAL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
